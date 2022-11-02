@@ -47,6 +47,8 @@
 
 .casella {
     width: calc(100% / 10);
+    height: 5.625rem;
+    line-height: 5.625rem;
 }
 
 .btn {
