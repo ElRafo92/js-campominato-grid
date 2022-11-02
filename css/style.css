@@ -45,8 +45,19 @@
     flex-wrap: wrap;
 }
 
-.casella {
+.casella-width1 {
     width: calc(100% / 10);
+}
+
+.casella-width2 {
+    width: calc(100% / 9);
+}
+
+.casella-width3 {
+    width: calc(100% / 7);
+}
+
+.casella {
     height: 5.625rem;
     line-height: 5.625rem;
 }
